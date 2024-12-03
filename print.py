@@ -1,0 +1,7 @@
+for count in range(2000, 3000):
+	if count % 2 == 0:
+	 if count / 2 == 0:
+	 print(count) 
+
+
+
