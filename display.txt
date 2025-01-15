@@ -1,0 +1,6 @@
+a = 0
+b = a + 1
+c = a **b
+
+print(  'a'   'b'  'c' )
+for a in range (5)
